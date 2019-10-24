@@ -1,0 +1,4 @@
+# switch to pre-release due to issue 6579
+docker-compose==1.25.0-rc2
+
+# docker-compose
